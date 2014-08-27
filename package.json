@@ -1,0 +1,38 @@
+{
+  "name": "GoogleAnalyticsMeasurementProtocol",
+  "description": "GoogleAnalyticsMeasurementProtocol ==================================",
+  "version": "0.0.0",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Opendojo/GoogleAnalyticsMeasurementProtocol.git"
+  },
+  "keywords": [
+    "google",
+    "analytics",
+    "measurement",
+    "protocol",
+    "smart",
+    "tv",
+    "gaming",
+    "console",
+    "phone"
+  ],
+  "author": "Sébastien Barbieri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Opendojo/GoogleAnalyticsMeasurementProtocol/issues"
+  },
+  "devDependencies": {
+    "gulp": "~3.8.7",
+    "gulp-jasmine": "~1.0.0",
+    "gulp-coffee": "~2.1.2",
+    "coffee-script": "~1.8.0"
+  }
+}
